@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utility.Reporting"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="scripts.AmazonTestClass">
+        <methods>
+          <include name="signInToApp"/>
+          <include name="basesetup"/>
+          <include name="initObjects"/>
+          <include name="searchAndSelectItemToCart"/>
+          <include name="clearCart"/>
+          <include name="goToSignIn"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- scripts.AmazonTestClass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

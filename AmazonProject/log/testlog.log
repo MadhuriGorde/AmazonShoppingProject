@@ -1,0 +1,69 @@
+2020-07-13 00:10:44,273 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:10:44,283 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:10:44,283 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 00:10:49,916 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:10:49,917 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 00:11:25,995 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:11:25,995 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 00:13:00,096 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:13:05,589 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 00:13:25,126 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 00:16:28,061 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:16:34,037 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 00:16:53,347 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 00:24:00,860 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:24:06,695 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 00:24:25,463 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 00:24:51,229 - scripts.AmazonTestClass -INFO - Searching for the item
+2020-07-13 00:25:29,890 - scripts.AmazonTestClass -INFO - Required item is selected
+2020-07-13 00:25:36,891 - scripts.AmazonTestClass -INFO - Cheking item details
+2020-07-13 00:26:00,147 - scripts.AmazonTestClass -INFO - Required item is added to cart
+2020-07-13 00:26:21,728 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:26:21,729 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 00:26:38,068 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:26:38,069 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 00:30:40,118 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:30:45,560 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 00:31:04,760 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 00:31:27,973 - scripts.AmazonTestClass -INFO - Searching for the item
+2020-07-13 00:32:06,279 - scripts.AmazonTestClass -INFO - Required item is selected
+2020-07-13 00:32:13,280 - scripts.AmazonTestClass -INFO - Cheking item details
+2020-07-13 00:32:37,658 - scripts.AmazonTestClass -INFO - Required item is added to cart
+2020-07-13 00:32:55,627 - scripts.AmazonTestClass -INFO - Checking cart details
+2020-07-13 00:33:21,204 - scripts.AmazonTestClass -INFO - Removing the item from cart
+2020-07-13 00:33:21,204 - scripts.AmazonTestClass -INFO - Post test actions: Cart cleared
+2020-07-13 00:41:15,466 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 00:41:21,016 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 00:41:42,958 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 00:42:22,380 - scripts.AmazonTestClass -INFO - Searching for the item
+2020-07-13 00:42:33,328 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 00:42:33,329 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 01:00:39,036 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 01:00:52,291 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 01:01:13,283 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 01:01:13,284 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 01:03:09,206 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 01:03:15,771 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 01:05:18,816 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 01:05:24,982 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 01:05:42,142 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 01:05:42,143 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 01:05:51,694 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 01:05:51,695 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 01:10:10,852 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 01:10:16,271 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 01:10:36,195 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 01:11:09,446 - scripts.AmazonTestClass -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2020-07-13 01:11:09,446 - scripts.AmazonTestClass -FATAL - Test Failed!! Remainig tests will be skipped.
+2020-07-13 01:12:13,107 - scripts.AmazonTestClass -INFO - Amazon Application launched
+2020-07-13 01:12:18,648 - scripts.AmazonTestClass -INFO - Logging in
+2020-07-13 01:12:37,063 - scripts.AmazonTestClass -INFO - Successfully logged in
+2020-07-13 01:12:57,826 - scripts.AmazonTestClass -INFO - Searching for the item
+2020-07-13 01:13:34,953 - scripts.AmazonTestClass -INFO - Required item is selected
+2020-07-13 01:13:41,954 - scripts.AmazonTestClass -INFO - Cheking item details
+2020-07-13 01:14:01,935 - scripts.AmazonTestClass -INFO - Required item is added to cart
+2020-07-13 01:14:16,965 - scripts.AmazonTestClass -INFO - Checking cart details
+2020-07-13 01:14:29,097 - scripts.AmazonTestClass -INFO - The item title is matched
+2020-07-13 01:14:40,364 - scripts.AmazonTestClass -INFO - Checking out
+2020-07-13 01:14:51,717 - scripts.AmazonTestClass -INFO - Removing the item from cart
+2020-07-13 01:14:51,717 - scripts.AmazonTestClass -INFO - Post test actions: Cart cleared

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="159415" started-at="2020-07-12T19:42:12Z" finished-at="2020-07-12T19:44:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="159415" started-at="2020-07-12T19:42:12Z" finished-at="2020-07-12T19:44:51Z">
+      <class name="scripts.AmazonTestClass">
+        <test-method status="PASS" signature="basesetup()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="basesetup" is-config="true" duration-ms="29213" started-at="2020-07-13T01:11:43Z" finished-at="2020-07-13T01:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basesetup -->
+        <test-method status="PASS" signature="initObjects()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="initObjects" is-config="true" duration-ms="568" started-at="2020-07-13T01:12:12Z" finished-at="2020-07-13T01:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initObjects -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="launchApp" duration-ms="31" started-at="2020-07-13T01:12:13Z" finished-at="2020-07-13T01:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="goToSignIn()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="goToSignIn" duration-ms="5498" started-at="2020-07-13T01:12:13Z" depends-on-methods="scripts.AmazonTestClass.launchApp" finished-at="2020-07-13T01:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignIn -->
+        <test-method status="PASS" signature="signInToApp()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="signInToApp" duration-ms="18429" started-at="2020-07-13T01:12:18Z" depends-on-methods="scripts.AmazonTestClass.goToSignIn" finished-at="2020-07-13T01:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInToApp -->
+        <test-method status="PASS" signature="searchAndSelectItemToCart()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="searchAndSelectItemToCart" duration-ms="123299" started-at="2020-07-13T01:12:37Z" depends-on-methods="scripts.AmazonTestClass.signInToApp" finished-at="2020-07-13T01:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndSelectItemToCart -->
+        <test-method status="PASS" signature="clearCart()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="clearCart" is-config="true" duration-ms="11352" started-at="2020-07-13T01:14:40Z" finished-at="2020-07-13T01:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCart -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:scripts.AmazonTestClass@4dfa3a9d]" name="endTest" is-config="true" duration-ms="3435" started-at="2020-07-13T01:14:52Z" finished-at="2020-07-13T01:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- scripts.AmazonTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
